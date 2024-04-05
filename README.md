@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#-education">🧑‍🏫 Education</a> •
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#-work-experiences">🧑‍💻 Work Experiences</a> •
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#-contact-information">📧 Contact Information</a>
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#👨‍🏫-education">🧑‍🏫 Education</a> •
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#🧑‍💻-work-experiences">🧑‍💻 Work Experiences</a> •
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#📧-contact-information">📧 Contact Information</a>
 </p>
 
 > ## ⚠️ Active Development
@@ -34,11 +34,11 @@
 
 ## 🧑‍🏫 Education
 
-| when                     | where                                    | degree     | tech stack                                                                          |
-| ------------------------ | ---------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
-| 2023-10-01 to present    | Graz University of Technology            | Dr. techn. | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack) |
-| 2020-10-01 to 2023-03-31 | Johannes Kepler University of Linz       | MSc.       | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack) |
-| 2017-10-01 to 2020-06-16 | Carinthia University of Applied Sciences | BSc.       | C, Arduino, ARM Cortex M4, Matlab, LabView, Python, VHDL                            |
+| when                     | where                                    | degree     | tech stack                                                                                |
+| ------------------------ | ---------------------------------------- | ---------- | ----------------------------------------------------------------------------------------- |
+| 2023-10-01 to present    | Graz University of Technology            | Dr. techn. | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack)        |
+| 2020-10-01 to 2023-03-31 | Johannes Kepler University of Linz       | MSc.       | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack), Julia |
+| 2017-10-01 to 2020-06-16 | Carinthia University of Applied Sciences | BSc.       | C, Arduino, ARM Cortex M4, Matlab, LabView, Python, VHDL                                  |
 
 ## 🧑‍💻 Work Experiences
 
@@ -46,9 +46,9 @@
 | ------------------------ | ---------------- | --------------------------- | ----------------------------------------------------------------------------------- |
 | 2023-10-01 to 2026-09-30 | Kai              | PhD student                 | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack) |
 | 2021-06 to 2023-09-30    | Kai              | Deep Learning researcher    | 🤫 (same as above)                                                                 |
-| 2020-11-01 to 2021-05-31 | InduServ Digital | backend software developer  | AWS, DynamoDB                                                                       |
+| 2020-11-01 to 2021-05-31 | InduServ Digital | backend software developer  | AWS, DynamoDB, Rust                                                                 |
 | 2020-08-01 to 2020-10-31 | Anexia           | R&D software developer      | Python, Go, Django                                                                  |
-| 2019-11-01 to 2020-08-01 | Glock Technology | embedded software developer | C++ on Infineon Aurix TriCore |
+| 2019-11-01 to 2020-08-01 | Glock Technology | embedded software developer | C++ on Infineon Aurix TriCore                                                       |
 
 ## 📧 Contact Information
 
