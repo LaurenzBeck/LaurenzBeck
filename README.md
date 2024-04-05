@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#👨‍🏫-education">🧑‍🏫 Education</a> •
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#🧑‍💻-work-experiences">🧑‍💻 Work Experiences</a> •
-  <a href="https://github.com/LaurenzBeck/LaurenzBeck/edit/main/README.md#📧-contact-information">📧 Contact Information</a>
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/tree/main?tab=readme-ov-file#-education">🧑‍🏫 Education</a> •
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/tree/main?tab=readme-ov-file#-work-experiences">🧑‍💻 Work Experiences</a> •
+  <a href="https://github.com/LaurenzBeck/LaurenzBeck/tree/main?tab=readme-ov-file#-contact-information">📧 Contact Information</a>
 </p>
 
 > ## ⚠️ Active Development
