@@ -8,6 +8,8 @@ labels: 'bug'
 
 ## 🐛 Bug Report
 
+> 🚮 delete any section that is not helpful/required for your report (including this message)
+
 ### 🔥 Current Behavior
 
 A clear and concise description of the behavior.
