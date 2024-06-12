@@ -23,7 +23,7 @@
 😅 jokes aside, my name is [**Laurenz Farthofer**](https://orcid.org/0000-0003-1477-1327) and I'm glad you stumbled upon my profile ❤️
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurenzbeck&show_icons=true&theme=ambient_gradient&rank_icon=github">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurenzbeck&show_icons=true&theme=ambient_gradient">
 </p>
 
 <p align="center">
