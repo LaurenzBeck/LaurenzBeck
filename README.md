@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenzbeck&layout=donut-vertical">
+  <img alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenzbeck&layout=donut-vertical&hide=jupyter%20notebook,html">
 </p>
 
 ---
