@@ -42,13 +42,13 @@
 
 ## 🧑‍💻 Work Experiences
 
-| when                     | where            | role                        | tech stack                                                                          |
-| ------------------------ | ---------------- | --------------------------- | ----------------------------------------------------------------------------------- |
-| 2023-10-01 to 2026-09-30 | Kai              | PhD student                 | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack) |
-| 2021-06 to 2023-09-30    | Kai              | Deep Learning researcher    | 🤫 (same as above)                                                                 |
-| 2020-11-01 to 2021-05-31 | InduServ Digital | backend software developer  | AWS, DynamoDB, Rust                                                                 |
-| 2020-08-01 to 2020-10-31 | Anexia           | R&D software developer      | Python, Go, Django                                                                  |
-| 2019-11-01 to 2020-08-01 | Glock Technology | embedded software developer | C++ on Infineon Aurix TriCore                                                       |
+| when                     | where                                            | role                        | tech stack                                                                          |
+| ------------------------ | ------------------------------------------------ | --------------------------- | ----------------------------------------------------------------------------------- |
+| 2023-10-01 to 2026-09-30 | KAI (owned by Infineon Technologies Austria AG)  | PhD student                 | [🐍 Python DSC stack](https://github.com/stars/LaurenzBeck/lists/python-dsc-stack) |
+| 2021-06 to 2023-09-30    | KAI (owned by Infineon Technologies Austria AG)  | Deep Learning researcher    | 🤫 (same as above)                                                                 |
+| 2020-11-01 to 2021-05-31 | InduServ Digital                                 | backend software developer  | AWS, DynamoDB, Rust                                                                 |
+| 2020-08-01 to 2020-10-31 | Anexia                                           | R&D software developer      | Python, Go, Django                                                                  |
+| 2019-11-01 to 2020-08-01 | Glock Technology                                 | embedded software developer | C++ on Infineon Aurix TriCore                                                       |
 
 ## 📧 Contact Information
 
