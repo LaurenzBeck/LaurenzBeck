@@ -52,6 +52,13 @@
 
 ## 📧 Contact Information
 
+<a href="https://github.com/LaurenzBeck">
+  <img alt="GitHub LaurenzBeck" src="https://img.shields.io/badge/GitHub-LaurenzBeck-181717?logo=github&logoColor=white">
+</a>
 <img alt="Static Badge" src="https://img.shields.io/badge/orcid-0000000314771327-green?logo=orcid&link=https%3A%2F%2Forcid.org%2F0000-0003-1477-1327">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Laurenz%20Farthofer-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flaurenz-farthofer-50156b219%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/email-laurenz%40hey.com-blue?logo=hey&link=mailto%3Alaurenz%40hey.com">
+<a href="https://www.linkedin.com/in/laurenz-farthofer-50156b219/">
+  <img alt="LinkedIn Laurenz Farthofer" src="./linkedin-badge.svg">
+</a>
+<a href="mailto:laurenz@hey.com">
+  <img alt="Email Laurenz" src="./email-badge.svg">
+</a>

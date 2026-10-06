@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="20" viewBox="0 0 165 20" role="img" aria-labelledby="title">
+  <title id="title">email: laurenz@hey.com</title>
+  <defs>
+    <linearGradient id="hey" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5522FA"/>
+      <stop offset="1" stop-color="#EC8580"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="165" height="20" rx="3"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="56" height="20" fill="#555"/>
+    <rect x="56" width="109" height="20" fill="url(#hey)"/>
+  </g>
+  <image x="5" y="3" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SEVZPC90aXRsZT48cGF0aCBkPSJNMTkuNTcgNi42OThhNS43MjQgNS43MjQgMCAwMC0yLjY0NCAxLjU3MmMtLjg0LTIuOTUyLTIuNjUtNy40Mi00LjQxNS04LjE1YTEuMjgzIDEuMjgzIDAgMDAtMS4xODEuMDVjLTEuMTA0LjY0My0xLjgyMyAyLjcwOS0xLjE5NCA2LjYyNEM3LjcxIDIuMzUzIDYuODYzIDIuMzYgNi40NzIgMi4zNTNhLjk1Ni45NTYgMCAwMC0uODczLjU5N2MtLjI2My41ODQtLjc5IDIuNDA2LjQ5NCA2LjMyN0M0LjU0NyA3LjE2IDQuMDcyIDYuODkgMy41MjYgNi45MTdhLjk2OS45NjkgMCAwMC0uODIxLjU1N2MtLjQ2My44NzMtLjQxIDMuMDY4IDEuMDI3IDYuMzRhMi45NDYgMi45NDYgMCAwMC0xLjc3My0uNzMgMS4wNiAxLjA2IDAgMDAtLjg1My41NDRjLS41ODQgMS4wNzMuNjQyIDQuMDgzIDIuMTU3IDYuMTI0QzQuNDkgMjEuNDI3IDYuOTQ3IDI0IDEwLjUxNSAyNGE4LjA0NyA4LjA0NyAwIDAwMS40ODktLjE0MS42NTQuNjU0IDAgMDAtLjI1LTEuMjg0Yy0yLjk2NS41NzgtNS4yLTEuMDUyLTYuNTUzLTIuNTE1LTIuMDIxLTIuMTktMi45MDgtNC44Mi0yLjk1OS01LjYyMi40MjQuMTczIDEuNjQ0Ljg5MiA0LjAxOCAzLjkzNGEuNjUuNjUgMCAwMDEuMDU5LS43NTdjLTMuMzM3LTUuMDY2LTMuNjY0LTguMTMyLTMuNTU1LTkuMTY2Ljk4MiAxIDMuNDMzIDQuNjcxIDUuMjggNy40NDVhLjY0Mi42NDIgMCAwMC44OC4xOTkuNjQyLjY0MiAwIDAwLjIzOC0uODczQzYuMzEyIDguMTYgNi40NDYgNC45NTIgNi42NyAzLjg3NGMuNTc3LjU4NCAyLjExIDIuNjE4IDUuMzQgOS42MjZhLjY0Mi42NDIgMCAwMC44NC4zMjcuNjQyLjY0MiAwIDAwLjM2Ni0uODI3Yy0zLjEzMi04LjUwNC0xLjc3Mi0xMS4zODUtMS4yNTItMTEuNzEyLjY3NCAwIDIuNTY3IDMuMjQ3IDMuNzQ4IDcuNTAyLjA3LjI2My4xNDEuNTIuMjA1Ljc3YTQuMDk0IDQuMDk0IDAgMDAtLjM4NS45MjRjLS42NCAyLjM1NS0xLjI4MyA3LjctLjA0NSA5LjE3YTEuMTk0IDEuMTk0IDAgMDAxLjA0LjQ0NCAxLjY4OCAxLjY4OCAwIDAwMS4yMzItLjc1N2MxLjE1LTEuNjc1LjQ3NS01Ljg3OS0uNDQzLTkuNTU3YTQuODMyIDQuODMyIDAgMDEyLjU2Ny0xLjg0IDEuMjgzIDEuMjgzIDAgMDExLjI4NC4zMDdjLjUyNi41OSAxLjQ0NSAyLjc5OC0xLjM0IDEwLjU4M2EuNjU0LjY1NCAwIDAwMS4yMzEuNDM2YzIuMjItNi4yMDYgMi41NjgtMTAuMjA0IDEuMDg0LTExLjg4NkEyLjUyOCAyLjUyOCAwIDAwMTkuNTcgNi43em0tMi44ODggMTEuOTE4YS40MS40MSAwIDAxLS4yMTguMTg2Yy0uNDgtLjU3MS0uNDgtMy45NTMuMDQ1LTYuNzI3Ljk5NSA0Ljc5NS40MTcgNi4yLjE3MyA2LjU0eiIvPjwvc3ZnPg=="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <g fill="#000" fill-opacity=".3" aria-hidden="true">
+      <text x="37.5" y="15" textLength="29" lengthAdjust="spacingAndGlyphs">email</text>
+      <text x="109.5" y="15" textLength="99" lengthAdjust="spacingAndGlyphs">laurenz@hey.com</text>
+    </g>
+    <text x="37.5" y="14" textLength="29" lengthAdjust="spacingAndGlyphs">email</text>
+    <text x="109.5" y="14" textLength="99" lengthAdjust="spacingAndGlyphs">laurenz@hey.com</text>
+  </g>
+</svg>
